@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "answers": [
+        "Subhash Chandra Bose",
+        "P.T JawaharLal Nehru",
+        "Narendra Modi",
+        "Mahatma Gandhi"
+      ],
+      "correct": "P.T JawaharLal Nehru"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": "Mars"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correct": "Paris"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answers": [
+        "Charles Dickens",
+        "Jane Austen",
+        "William Shakespeare",
+        "Mark Twain"
+      ],
+      "correct": "William Shakespeare"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "answers": [
+        "Gold",
+        "Oxygen",
+        "Hydrogen",
+        "Iron"
+      ],
+      "correct": "Oxygen"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "answers": [
+        "1942",
+        "1945",
+        "1950",
+        "1939"
+      ],
+      "correct": "1945"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": "Pacific Ocean"
+    },
+    {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "answers": [
+        "100°C",
+        "0°C",
+        "50°C",
+        "212°C"
+      ],
+      "correct": "100°C"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Claude Monet"
+      ],
+      "correct": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answers": [
+        "China",
+        "Japan",
+        "Thailand",
+        "South Korea"
+      ],
+      "correct": "Japan"
+    }
+  ]
+  
